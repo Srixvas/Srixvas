@@ -38,12 +38,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srixvas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srixvas&show_icons=true"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srixvas&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Srixvas"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srixvas&theme=dark&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Srixvas&layout=compact"/>
 </p>
+
 
 ---
 
